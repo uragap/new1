@@ -15,3 +15,4 @@ pretranslate:
   - source: .
     include:
     - "index2.md"
+ignore_symbols_code: true
