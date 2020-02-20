@@ -14,5 +14,5 @@ pretranslate:
   paths:
   - source: .
     include:
-    - "escape.md"
+    - "README.md"
 ignore_symbols_code: true
