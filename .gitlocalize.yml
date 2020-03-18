@@ -15,4 +15,4 @@ pretranslate:
   - source: .
     include:
     - "escape.md"
-ignore_symbols_code: true
+ignore_escaped_strings: true
