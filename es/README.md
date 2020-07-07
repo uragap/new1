@@ -1,4 +1,4 @@
-## Leer un archivo
+## Leer un archivo new line
 
 Ahora agregaremos funcionalidad para leer el archivo que se especifica en el argumento de la línea de comando del `filename` . Primero, necesitamos un archivo de muestra para probarlo: el mejor tipo de archivo para asegurarnos de que el `minigrep` funcione es uno con una pequeña cantidad de texto en varias líneas con algunas palabras repetidas. ¡El Listado 12-3 tiene un poema de Emily Dickinson que funcionará bien! Cree un archivo llamado *poem.txt* en el nivel raíz de su proyecto e ingrese el poema “¡No soy nadie! ¿Quién eres tú?"
 
