@@ -1,9 +1,0 @@
-pretranslate:
-  segments:
-    ignore_patterns:
-    - !ruby/regexp /{%\s?([a-zA-Z0-9\.\,\-\?\'\"\s]*)\s?%}/    
-  paths:
-  - source: .
-    include:
-    - "escape.md"
-ignore_escaped_strings: true
