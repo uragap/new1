@@ -12,3 +12,5 @@ item in the cycle will never reach 0, and the values will never be dropped.
 <img alt="Reference cycle of lists" src="img/trpl15-04.svg" class="center" />
 
 ![test image](https://i.imgur.com/k2y3saw.png)
+
+[yandex](yandex.by)
