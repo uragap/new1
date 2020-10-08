@@ -1,0 +1,6 @@
+pretranslate:
+  paths:
+  - source: .
+    include:
+      - "pretrans1/*.*"
+      - "test.md"
