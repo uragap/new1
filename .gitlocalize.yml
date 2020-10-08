@@ -3,4 +3,4 @@ pretranslate:
   - source: .
     include:
       - "pretrans1/*.*"
-      - "test.md"
+      - "README.md"
