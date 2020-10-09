@@ -1,6 +1,0 @@
-pretranslate:
-  paths:
-  - source: .
-    include:
-      - "pretrans1/*.*"
-      - "README.md"
