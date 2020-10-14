@@ -1,0 +1,8 @@
+settings:
+  remove_quotes_in_frontmatter:
+   = "true"
+pretranslate:
+  paths:
+  - source: .
+    include:
+      - "checkpoint.ipynb"
