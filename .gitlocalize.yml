@@ -3,3 +3,4 @@ pretranslate:
   - source: .
     include:
       - "imbalanced_data.ipynb"
+      - "test.md"
