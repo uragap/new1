@@ -2,5 +2,5 @@ pretranslate:
   paths:
   - source: .
     include:
-      - "imbalanced_data.ipynb"
+      - "test2.md"
       - "test.md"
