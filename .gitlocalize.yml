@@ -1,0 +1,7 @@
+
+pretranslate:
+  paths:
+  - source: .
+    include:
+      - "test2.md"
+      - "test.md"
